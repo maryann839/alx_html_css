@@ -32,18 +32,18 @@ header div {
 }
 
 table, th, tr, td{
-    border: 3px solid black;
+    border: 2px solid black;
+    font-weight: bold; 
 }
 aside p{
     background-color: rgb(100, 122, 142);}
 
 aside{
-    background-color: lightgoldenrodyellow;
+    background-color: whitesmoke;
 }
 
 table{
-    background-color:yellow;
-    width: 300px;
+    width: 400px;
     height: 250px;
 }
 
@@ -53,6 +53,12 @@ footer {
 footer p a{
     background-color: rgb(100, 122, 142);
 }
+
+
+
+
+
+
 
 
 
