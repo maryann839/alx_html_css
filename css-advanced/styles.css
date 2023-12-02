@@ -156,3 +156,22 @@ margin-top: 10px;
     display: flex;
     
 }
+
+footer{
+    background-color: var(--color-dark);
+    display: flex;
+    width: 1440px;
+    text-align: center;
+}
+
+/* .footer_container {
+    justify-content: space-between;
+} */
+.fcimg {
+   margin-left: 1200px;
+   width: 50px
+}
+
+.flogo{
+    width: 50px
+}
